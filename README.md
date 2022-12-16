@@ -15,4 +15,5 @@ Execution:
 
 
 Project Demo recording  link: https://drive.google.com/drive/folders/14GeVcEgQ-elx5l0ovzWN3ashYNFwzSsY?usp=sharing
-Project presentation link:
+
+Project presentation link:https://docs.google.com/presentation/d/1eskIJ5M7YxBndIHKIVy1-bYwh-g2L9nG6PvVrc_6EUY/edit?usp=sharing
