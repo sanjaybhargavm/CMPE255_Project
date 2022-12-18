@@ -14,6 +14,6 @@ Execution:
 4. You can find the app running on http://10.0.0.198:5000
 
 
-Project Demo recording  link: https://drive.google.com/drive/folders/14GeVcEgQ-elx5l0ovzWN3ashYNFwzSsY?usp=sharing
+Project Demo recording  link: https://youtu.be/1RvUvVJFwiA
 
 Project presentation link:https://docs.google.com/presentation/d/1eskIJ5M7YxBndIHKIVy1-bYwh-g2L9nG6PvVrc_6EUY/edit?usp=sharing
